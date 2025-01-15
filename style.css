@@ -234,7 +234,7 @@ span {
 }
 @media screen and (max-width: 576px) {
   section {
-    width: 80%;
+    width: 90%;
   }
   .hero-content {
     width: 100%;
