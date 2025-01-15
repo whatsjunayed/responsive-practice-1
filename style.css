@@ -324,7 +324,7 @@ span {
     justify-content: center;
   }
   footer {
-    padding: 120px 0;
+    padding: 80px 20px;
   }
 }
 @media screen and (min-width: 576px) and (max-width: 992px) {
