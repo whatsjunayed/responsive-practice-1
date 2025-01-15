@@ -63,7 +63,6 @@ img {
 
 .image-category-container .image-container {
   flex-grow: 1;
-  background-color: #f3dee7;
   padding: 40px 70px 0 70px;
   border-top-left-radius: 100%;
   border-top-right-radius: 100%;
@@ -232,6 +231,17 @@ color: #e55473;
 span {
   color: #e55473;
 }
+.light-pink{
+  background-color: #F3DEE7;
+}
+.light-cyan{
+  background-color: #D8EFF1;
+}
+.light-green{
+  background-color: #E2EBDC;
+}
+
+
 @media screen and (max-width: 576px) {
   section {
     width: 90%;
