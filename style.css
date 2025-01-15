@@ -22,7 +22,7 @@ section {
   background-color: #fdeef1;
 }
 .hero {
-  background-image: url("./Assets/pngwing10.png");
+  background-image: url("../Assets/pngwing10.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
@@ -157,7 +157,7 @@ footer p {
 }
 
 .deals {
-  background-image: url("./Assets/Rectangle9.png");
+  background-image: url("../Assets/Rectangle9.png");
   background-repeat: no-repeat;
   background-size: cover;
   margin: 120px auto;
